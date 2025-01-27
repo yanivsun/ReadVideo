@@ -4,3 +4,5 @@ config.yaml
 __pycache__
 *.csv
 *.db
+tmp_data/
+test.py
