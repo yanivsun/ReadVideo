@@ -1,3 +1,4 @@
 Flask
 python-doctr
 model_dir
+chromadb
