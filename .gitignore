@@ -1,6 +1,6 @@
 db/
 checkpoints/
-config.yaml
+
 __pycache__
 *.csv
 *.db
